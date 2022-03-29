@@ -5,5 +5,6 @@ Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summari
 EDA is the process of summarizing important characteristics of data in order to gain a better understanding of the dataset.
 
 Methods for EDA:
-1- Descriptive Statistics 
+
+1- Descriptive Statistics (numerical data , categorical data)
 ...
