@@ -7,4 +7,5 @@ EDA is the process of summarizing important characteristics of data in order to 
 Methods for EDA:
 
 1- Descriptive Statistics (numerical data , categorical data)
+2- Handling Missing values
 ...
